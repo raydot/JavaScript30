@@ -6,6 +6,10 @@ My notes on the ones I've finished. All of my finished work is in the START file
 
 Good intro! `document.querySelector` with `data-` attributes for element selection. Using [HTMLMediaElement.play()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play) to play sounds. Using [Element.classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) to add and remove CSS classes from elements.
 
+## 02 CSS + JS Clock
+
+Should have built this one in JS a long time ago. CSS `transform: rotate`, `transform-origin` which changes where the div rotates from. Also `transition` and `transition-timing-function` to handle the "tick" of the clock.
+
 ---
 
 ![](https://javascript30.com/images/JS3-social-share.png)
