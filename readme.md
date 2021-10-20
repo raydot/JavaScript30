@@ -10,8 +10,15 @@ Good intro! `document.querySelector` with `data-` attributes for element selecti
 
 Should have built this one in JS a long time ago. CSS `transform: rotate`, `transform-origin` which changes where the div rotates from. Also `transition` and `transition-timing-function` to handle the "tick" of the clock.
 
----
+## 03 Playing with CSS Variables and JS
 
+The CSS variables is not so interesting, but using them to change values live during JS sure is! Interesting combination of selectors and actionListeners that gets the job done. Wes is a master of `data-` selectors. TODO: scope the variables within the CSS and tighten up the listeners so they don't respond to movement anywhere near the input elements.
+
+## 04 Array Cardio Day 1
+
+Should be called "Functional Programming Day 1." Wes takes us through exercises that require filter, map, sort and reduce to complete. Also a clever use of `document.querySelector()` and `document.querySelectorAll()` to rip data from a Wikipedia page. And how have I gone this long without knowing about `console.table()` ???
+
+--
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
