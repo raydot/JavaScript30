@@ -18,6 +18,18 @@ The CSS variables is not so interesting, but using them to change values live du
 
 Should be called "Functional Programming Day 1." Wes takes us through exercises that require filter, map, sort and reduce to complete. Also a clever use of `document.querySelector()` and `document.querySelectorAll()` to rip data from a Wikipedia page. And how have I gone this long without knowing about `console.table()` ???
 
+## 05 Flex Panel Gallery
+
+Gentle reminder: YOUR FLEX SKILLS ARE WEAK!
+
+## 06 Type Ahead
+
+Rip a large piece of geography data into a searchble table with population added. Kind of a combo of several things we've done so far.
+
+## 07 Array Cardio Day 2
+
+Well, I did all of these without watching the video, so good for me. I did not know the part about splicing (not slicing) an array back together with the spread operator, that was truly a pro tip.
+
 --
 ![](https://javascript30.com/images/JS3-social-share.png)
 
