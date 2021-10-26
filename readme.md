@@ -36,6 +36,8 @@ Basic HTML5 Canvas drawing operations. Nothing earth-shattering but builds a fun
 
 ## 09 14 Must Know Dev Tools Tricks
 
+Not so much Dev Tools Tricks after the first one. Then it's `console.log()` tricks! `console.assert()`, `console.warn()`, `console.clear()`, `console.time()`, etc., etc.
+
 --
 ![](https://javascript30.com/images/JS3-social-share.png)
 
