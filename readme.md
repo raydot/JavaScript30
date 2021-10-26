@@ -30,6 +30,12 @@ Rip a large piece of geography data into a searchble table with population added
 
 Well, I did all of these without watching the video, so good for me. I did not know the part about splicing (not slicing) an array back together with the spread operator, that was truly a pro tip.
 
+## 08 Fun with HTML5 Canvas
+
+Basic HTML5 Canvas drawing operations. Nothing earth-shattering but builds a fun little widget.
+
+## 09 14 Must Know Dev Tools Tricks
+
 --
 ![](https://javascript30.com/images/JS3-social-share.png)
 
