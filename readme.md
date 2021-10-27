@@ -38,6 +38,10 @@ Basic HTML5 Canvas drawing operations. Nothing earth-shattering but builds a fun
 
 Not so much Dev Tools Tricks after the first one. Then it's `console.log()` tricks! `console.assert()`, `console.warn()`, `console.clear()`, `console.time()`, etc., etc.
 
+## 10 Hold Shift to Check Multiple Checkboxes
+
+Tricky one! A nifty bit of code allowing us to hold shift to select multiple check boxes. A logic puzzle.
+
 --
 ![](https://javascript30.com/images/JS3-social-share.png)
 
