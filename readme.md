@@ -42,8 +42,20 @@ Not so much Dev Tools Tricks after the first one. Then it's `console.log()` tric
 
 Tricky one! A nifty bit of code allowing us to hold shift to select multiple check boxes. A logic puzzle.
 
---
+## 11 Custom HTML5 Video Player
+
+Fun to build a web player from the ground up. Just like we used to do back in the day in Director!
+This one would have been good to know when I was still teaching. Building a fairly decent set of video player controls for HTML5 video. Lots of clever tricks used.
+
 ![](https://javascript30.com/images/JS3-social-share.png)
+
+## 12 Key Sequence Detection
+
+Boring, key detection algo. Could have been part of a longer module, but they can't all be zingers.
+
+## Slide in on Scroll
+
+Fun use of scrolling events to create a bit of animation in the browser with sliding images. Again, reminds me of Director!
 
 # JavaScript30
 
