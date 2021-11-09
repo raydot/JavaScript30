@@ -53,9 +53,17 @@ This one would have been good to know when I was still teaching. Building a fair
 
 Boring, key detection algo. Could have been part of a longer module, but they can't all be zingers.
 
-## Slide in on Scroll
+## 13 Slide in on Scroll
 
 Fun use of scrolling events to create a bit of animation in the browser with sliding images. Again, reminds me of Director!
+
+## 14 Object and Arrays - Reference VS Copy
+
+Useful reminder of when objects and arrays make copies vs. references.
+
+## 15 LocalStorage and Event Delegation
+
+HALFWAY! The `localStorage` stuff was pretty straightforward, but the event delegation stuff was very interesting. Combining the two we get a list that is updatable and storable. Event listeners rule! TODO: Make buttons that say "clear," "check all" and "uncheck all" and get them to work.
 
 # JavaScript30
 
