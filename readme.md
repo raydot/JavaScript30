@@ -65,6 +65,10 @@ Useful reminder of when objects and arrays make copies vs. references.
 
 HALFWAY! The `localStorage` stuff was pretty straightforward, but the event delegation stuff was very interesting. Combining the two we get a list that is updatable and storable. Event listeners rule! TODO: Make buttons that say "clear," "check all" and "uncheck all" and get them to work.
 
+## 16 CSS Text Shadow Mouse Move Effect
+
+Simple fun one! How to use the offset to create a fun shadow effect base on mouse movement.
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
