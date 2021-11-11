@@ -67,7 +67,11 @@ HALFWAY! The `localStorage` stuff was pretty straightforward, but the event dele
 
 ## 16 CSS Text Shadow Mouse Move Effect
 
-Simple fun one! How to use the offset to create a fun shadow effect base on mouse movement.
+Simple fun one! How to use the offset to create a fun shadow effect based on mouse movement.
+
+## 17 Sorting Band Names Without Articles
+
+Shows how to use `sort`, `regex`, and `map` to take a list of band names and sort it without -- wait for it! -- articles. Cool trick.
 
 # JavaScript30
 
