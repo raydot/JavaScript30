@@ -73,6 +73,20 @@ Simple fun one! How to use the offset to create a fun shadow effect based on mou
 
 Shows how to use `sort`, `regex`, and `map` to take a list of band names and sort it without -- wait for it! -- articles. Cool trick.
 
+## 18 Adding Up Times With Reduce
+
+`map`, `reduce` and some nifty math tricks used to take all of the individual times in a 58 video playlist and output them as one big total time.
+
+## 19 Unreal Webcam Fun
+
+The way Wes describes to access the video player is [deprecated](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/srcObject), but fixed in my code. Sadly this has nothing to do with the Unreal game engine!
+
+Super cool lesson though. Wes shows us how to create video filters. I did not realize JS was fast enough to do real-time image filtering...goes to show what I know. Also cool because it shows how to access the camera, and probably forms the basis of my stop-motion animation engine.
+
+## 20 Native Speech Recognition
+
+Speech recognition in the browser! Now I can spy on my neighbors!
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
