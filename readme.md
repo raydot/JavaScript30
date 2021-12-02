@@ -87,6 +87,22 @@ Super cool lesson though. Wes shows us how to create video filters. I did not re
 
 Speech recognition in the browser! Now I can spy on my neighbors!
 
+## 21 Geolocation
+
+How to get Geolocation working with JS and an iPhone. I did not know the iPhone can simulate location, like you're walking around or driving around somewhere, great feature!
+
+## 22 Links
+
+Not a problem I've ever tried to solve but another great reason to know your selectors and know them cold.
+
+## 23 Speech Synthesis
+
+Used to be you had to insert another board into your computer if you wanted speech synthesis, now it runs right in the browser! A very fun and interesting demo of how to do it.
+
+## 24 Sticky Nav
+
+How to build the sticky nav! Every web dev's dream. Todo: the logo does not animate when the navigation is restored. A few things didn't go the way Wes suggested.
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
