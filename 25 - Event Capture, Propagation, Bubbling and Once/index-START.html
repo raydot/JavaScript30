@@ -1,48 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <title>Understanding JavaScript's Capture</title>
+    <meta charset="UTF-8" />
+    <title>Understanding JavaScript's Capture</title>
 </head>
+
 <body class="bod">
-
-  <div class="one">
-    <div class="two">
-      <div class="three">
-      </div>
+    <div class="outer">
+        <div class="middle">
+            <div class="inner"></div>
+        </div>
     </div>
-  </div>
 
-<style>
-  html {
-    box-sizing: border-box;
-  }
-  
-  *, *:before, *:after { 
-    box-sizing: inherit; 
-  }
+    <style>
+        html {
+            box-sizing: border-box;
+        }
+        
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+        
+        div {
+            width: 100%;
+            padding: 100px;
+        }
+        
+        .outer {
+            background: red;
+        }
+        
+        .middle {
+            background: yellow;
+        }
+        
+        .inner {
+            background: green;
+        }
+    </style>
 
-  div {
-    width: 100%;
-    padding: 100px;
-  }
+    <button></button>
+    <script>
+        // Three nested divs, let's talk propogation:
+        const divs = document.querySelectorAll('div');
 
-  .one {
-    background: thistle;
-  }
+        // When you click it propogates "up".
+        // First a capture, which goes from the top down...
+        // ...followed by a bubble whick triggers events from the bottom up.
 
-  .two {
-    background: mistyrose;
-  }
+        function logText(e) {
+            // Logs the nest, shows the bubbling.
+            console.log(this.classList.value);
+            // Stop the bubbling!\
+            // works with capture
+            //e.stopPropagation();
+        }
 
-  .three {
-    background: coral;
-  }
-</style>
-
-<button></button>
-<script>
-
-</script>
+        divs.forEach((div) =>
+            div.addEventListener('click', logText, {
+                // let's add an options object!
+                // capture: order in which events occur.  Default is false(inside out).
+                // Or, fires on the capture down instead of the bubble up.
+                capture: false,
+                once: true, // listen for a click and then unbind.  Good for checkouts.
+            })
+        );
+    </script>
 </body>
+
 </html>

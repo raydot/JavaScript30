@@ -103,6 +103,10 @@ Used to be you had to insert another board into your computer if you wanted spee
 
 How to build the sticky nav! Every web dev's dream. Todo: the logo does not animate when the navigation is restored. A few things didn't go the way Wes suggested.
 
+## 25 Event Capture, Propagation, Bubbling and Once
+
+Wes takes us through the basics of events propagation.
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
