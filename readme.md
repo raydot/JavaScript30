@@ -107,6 +107,10 @@ How to build the sticky nav! Every web dev's dream. Todo: the logo does not anim
 
 Wes takes us through the basics of events propagation.
 
+## 26 Stripe Follow Along Dropdown
+
+Finishing what we started in #24. Looks pretty cool! Todo: why does the animation require the change of both display and opacity?
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
