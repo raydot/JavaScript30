@@ -111,6 +111,14 @@ Wes takes us through the basics of events propagation.
 
 Finishing what we started in #24. Looks pretty cool! Todo: why does the animation require the change of both display and opacity?
 
+## 27 Click and Drag to Scroll
+
+Mouse events! Use them to build a sliding carousel. My elephant walk code is weak.
+
+## 28 Video Speed Controller UI
+
+We build a video speed controller UI. A pretty decent exercise in tying a few things together but I think could have come earlier in the series. C'est la vie.
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
