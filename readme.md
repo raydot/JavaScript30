@@ -119,6 +119,12 @@ Mouse events! Use them to build a sliding carousel. My elephant walk code is wea
 
 We build a video speed controller UI. A pretty decent exercise in tying a few things together but I think could have come earlier in the series. C'est la vie.
 
+## 29 Countdown Clock
+
+Countdown clock with quick time select buttons and the ability to enter custom times. Covers a lot about both using timers and data portability from one format to another. Cool! Hard to believe there's only one lesson left!
+
+Original Repo README:
+
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
