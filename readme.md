@@ -123,6 +123,12 @@ We build a video speed controller UI. A pretty decent exercise in tying a few th
 
 Countdown clock with quick time select buttons and the ability to enter custom times. Covers a lot about both using timers and data portability from one format to another. Cool! Hard to believe there's only one lesson left!
 
+## 30 Wack-a-Mole
+
+Great finish, combining a few different things we learned in the course! Ducky. Great course, glad I did it. TODO: Buff the game, create high score list for localstorage, create game levels, etc...
+
+--
+
 Original Repo README:
 
 # JavaScript30
